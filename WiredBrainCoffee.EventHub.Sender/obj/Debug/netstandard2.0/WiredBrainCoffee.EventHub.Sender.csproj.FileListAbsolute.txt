@@ -1,0 +1,9 @@
+C:\Users\kumar.kshitij\source\repos\WiredBrainCoffeeMachine\WiredBrainCoffee.EventHub.Sender\bin\Debug\netstandard2.0\WiredBrainCoffee.EventHub.Sender.deps.json
+C:\Users\kumar.kshitij\source\repos\WiredBrainCoffeeMachine\WiredBrainCoffee.EventHub.Sender\bin\Debug\netstandard2.0\WiredBrainCoffee.EventHub.Sender.dll
+C:\Users\kumar.kshitij\source\repos\WiredBrainCoffeeMachine\WiredBrainCoffee.EventHub.Sender\bin\Debug\netstandard2.0\WiredBrainCoffee.EventHub.Sender.pdb
+C:\Users\kumar.kshitij\source\repos\WiredBrainCoffeeMachine\WiredBrainCoffee.EventHub.Sender\obj\Debug\netstandard2.0\WiredBrainCoffee.EventHub.Sender.csprojResolveAssemblyReference.cache
+C:\Users\kumar.kshitij\source\repos\WiredBrainCoffeeMachine\WiredBrainCoffee.EventHub.Sender\obj\Debug\netstandard2.0\WiredBrainCoffee.EventHub.Sender.csproj.CoreCompileInputs.cache
+C:\Users\kumar.kshitij\source\repos\WiredBrainCoffeeMachine\WiredBrainCoffee.EventHub.Sender\obj\Debug\netstandard2.0\WiredBrainCoffee.EventHub.Sender.AssemblyInfoInputs.cache
+C:\Users\kumar.kshitij\source\repos\WiredBrainCoffeeMachine\WiredBrainCoffee.EventHub.Sender\obj\Debug\netstandard2.0\WiredBrainCoffee.EventHub.Sender.AssemblyInfo.cs
+C:\Users\kumar.kshitij\source\repos\WiredBrainCoffeeMachine\WiredBrainCoffee.EventHub.Sender\obj\Debug\netstandard2.0\WiredBrainCoffee.EventHub.Sender.dll
+C:\Users\kumar.kshitij\source\repos\WiredBrainCoffeeMachine\WiredBrainCoffee.EventHub.Sender\obj\Debug\netstandard2.0\WiredBrainCoffee.EventHub.Sender.pdb
