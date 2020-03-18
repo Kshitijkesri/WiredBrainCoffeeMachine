@@ -1,6 +1,6 @@
 # WiredBrainCoffeeMachine
 
-Project helps to understand the fundamental of Event Hubs.
+Project helps to understand the fundamental of Azure Event Hub.
 
 # Project Details
 
