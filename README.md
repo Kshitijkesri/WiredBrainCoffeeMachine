@@ -1,5 +1,7 @@
 # WiredBrainCoffeeMachine
 
+Project helps to understand the fundamental of Event Hubs.
+
 # Project Details
 
 1)  A WPF application that simulates a coffee machine and sends events to the Event Hub.
